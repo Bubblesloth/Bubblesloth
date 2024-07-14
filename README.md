@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🏫 I'm a french beginner indie game developer and music producer<br><br>🔭 I’m currently working on my first public game<br><br>🎮 Games{<br><br>           🎩 Once Upon a Hat (I temporarily stopped the project to potentially start it again later)<br>           🥎 Super Pong (a kind of Pong remake with new gamemodes and mechanics)<br>}<br><br>🔠 Languages{<br><br>           🪀 GML<br>           🐍 Python<br>           🌐 HTML/CSS<br>        💎 Ruby (a little bit)<br>      ☕Java (a little bit)<br>    }
+👨🏻‍🏫 I'm a french beginner indie game developer and music producer<br><br>🔭 I’m currently working on my first public game<br><br>🎮 Games{<br><br>           🎩 Once Upon a Hat (I temporarily stopped the project to potentially start it again later)<br>           🥎 Super Pong (a kind of Pong remake with new gamemodes and mechanics)<br>}<br><br>🔠 Languages{<br><br>           🪀 GML<br>           🐍 Python<br>           🌐 HTML/CSS<br>        🧊 Unity Visual Scripting + Learning C#<br>    }
 
 
 ## 🌐 Socials:
