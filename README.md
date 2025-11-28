@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🏫 I'm a french beginner indie game developer and music producer<br><br>🔭 I’m currently working on unfinished games<br><br>🎮 Games{<br><br>           🎩 Once Upon a Hat (I temporarily stopped the project to potentially start it again later)<br>           🥎 Super Pong (a kind of Pong remake with new gamemodes and mechanics)<br>🚗 Road of the DriverDancer (a rhythm game about dodging cars by following the tempo of the music)<br>🧀 Chees'cale (GMTK Game Jam 2024)<br>}<br><br>🔠 Languages{<br><br>           🪀 GML<br>           🐍 Python<br>           🌐 HTML/CSS<br>        🧊Unity Visual Scripting<br>        🤖Godot Engine<br>        ©️C#<br>}
+👨🏻‍🏫 I'm a french indie game developer and music producer<br><br>🎮 Published Games{<br><br>🥎 Super Pong (a kind of Pong remake with new gamemodes and mechanics)<br>🚗 Road of the DriverDancer (a rhythm game about dodging cars by following the tempo of the music)<br>🧀 Chees'cale (GMTK Game Jam 2024)<br>}<br><br>🔠 Languages & Engines{<br><br>   ©️C#<br>      🐍 Python<br>       🌐 HTML/CSS<br>         🪀 GML on Gamemaker<br>        🤖Godot Engine<br>        🧊Unity<br>               }
 
 <!--
 ## 🌐 Socials:
