@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨🏻‍🏫 I'm a french indie game developer and music producer<br><br>🎮 Published Games<br>{<br><br>🥎 Super Pong (a kind of Pong remake with new gamemodes and mechanics)<br>🚗 Road of the DriverDancer (a rhythm game about dodging cars by following the tempo of the music)<br>🧀 Chees'cale (GMTK Game Jam 2024)<br>🚀 Astral Breath (2D Shoot Them Up)<br>🧩 Toko Tomb (Aztec Themed Sokoban Puzzle Game)<br>
-}<br><br>🔠 Languages & Engines<br>{<br><br>   ©️C#<br>      🐍 Python<br>       🌐 HTML/CSS<br>         🪀 GML on Gamemaker<br>        🤖Godot Engine<br>        🧊Unity<br>               }
+👨🏻‍🏫 I'm a french indie game developer and music producer<br><br>🎮 Published Games<br>{<br>🥎 Super Pong (a kind of Pong remake with new gamemodes and mechanics)<br>🚗 Road of the DriverDancer (a rhythm game about dodging cars by following the tempo of the music)<br>🧀 Chees'cale (GMTK Game Jam 2024)<br>🚀 Astral Breath (2D Shoot Them Up)<br>🧩 Toko Tomb (Aztec Themed Sokoban Puzzle Game)<br>
+}<br><br>🔠 Languages & Engines<br>{<br>   ©️C#<br>      🐍 Python<br>       🌐 HTML/CSS<br>         🪀 GML on Gamemaker<br>        🤖Godot Engine<br>        🧊Unity<br>               }
 
 <!--
 ## 🌐 Socials:
